@@ -1,0 +1,32 @@
+
+#t2{
+    color: #0af162;
+
+}
+#t3{
+    color: rgb(221, 10, 10);
+}
+p{
+    color: aliceblu;
+
+}
+p1{
+    color: blue;
+}
+p2{
+    color: blueviolet;
+}
+p3{
+    color: #0af162;
+}
+p4{
+    color: aliceblue;
+}
+body, html {
+ margin: auto;
+  background-image:url(./img\ fundo.jpg);
+  background-size: cover;
+  text-align: Center;
+  color: blancleda1mind;
+  height: 300 px;}
+ 
